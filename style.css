@@ -1,0 +1,25 @@
+#container{
+    display:block;
+    height: 100vh;
+    background-color: #73ab54;
+    align-items: center;
+    padding-top: 48vh;
+}
+#button{
+    padding-top: 2vh;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(3, 7, 48);
+    color: white;
+    text-align: center;
+}
+#output{
+    padding-top: 1vh;
+    margin-top: 2vh;
+    background-color: white;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
